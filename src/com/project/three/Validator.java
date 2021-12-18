@@ -2,7 +2,8 @@ package com.project.three;
 
 public class Validator {
 	
-	public String animalType(int animalId) {
+	
+	public static  String animalType(int animalId) {
 		
 		if(animalId >= 3000 && animalId <= 7999) {
 			return "pet";

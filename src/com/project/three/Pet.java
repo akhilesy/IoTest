@@ -42,9 +42,9 @@ public class Pet extends Animal {
 	public Pet(int animalId, String animalType, double weight, String name, String owner) throws Exception {
 		super(animalId, animalType, weight);
 		this.name = name;
-		if (Owner.length() >= 3) {
-
-			this.Owner = Owner;
+		if (owner.length() >= 3) {
+       System.out.println(owner);
+			this.Owner = owner;
 
 		} else {
 			throw new Exception("invalid animal type "+Owner);

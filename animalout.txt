@@ -1,2 +1,2 @@
-[]
-[]
+[Pet [name=cjklbhdhbd, Owner=hggjkdfd, AnimalId()=6565, AnimalType()=pet, Weight()=95.0], Pet [name=cat, Owner=munna, AnimalId()=6565, AnimalType()=pet, Weight()=85.0], Pet [name=horse, Owner=akhilesh, AnimalId()=4545, AnimalType()=pet, Weight()=85.0]]
+[ZooAnimal [cageNumber=95, trainer=akhilesh, AnimalId=6565, AnimalType=pet, Weight=95.0], ZooAnimal [cageNumber=65, trainer=bbbbbbbb, AnimalId=6565, AnimalType=pet, Weight=85.0], ZooAnimal [cageNumber=52, trainer=yyyyyy, AnimalId=4545, AnimalType=pet, Weight=85.0]]
