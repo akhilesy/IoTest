@@ -31,7 +31,7 @@ public class ZooAnimal extends Animal {
 		}
 	}
 
-//ToString method to print all the details of animal and ZooAnimal classes
+//tostring method to print data
 	@Override
 	public String toString() {
 		return "ZooAnimal [cageNumber=" + cageNumber + ", trainer=" + trainer + ", AnimalId=" + getAnimalId()
